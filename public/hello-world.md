@@ -1,7 +1,7 @@
 ---
 title: hello-world
 tags:
-  - ''
+  - "日常生活"
 private: false
 updated_at: ''
 id: null
